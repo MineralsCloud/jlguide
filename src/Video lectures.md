@@ -6,4 +6,4 @@ Julia Academy bundles interactive notebooks with instructor videos so you can fo
 
 ## YouTube
 
-Subscribe this [YouTube]() channel, which classifies some talks given by Julia developers/users. These talks are usually from [_The Julia Language_](https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA) channel.
+Subscribe this [YouTube](https://www.youtube.com/channel/UCCTxSO8buAa8wsnNYDcPWCQ?view_as=subscriber) channel, which classifies some talks given by Julia developers/users. These talks are usually from [_The Julia Language_](https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA) channel.
